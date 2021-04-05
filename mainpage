@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>MALINA</title>
+    <style>
+     .zagolovok {
+       font-family: gill sans;
+       font-size: 45px;
+       line-height: 10px;
+       text-align: center;
+       color: darkblue;
+     }
+     .osnova {
+       font-family: gill sans;
+       line-height:25px;
+       text-align:center;
+       font-size: 20px;
+       color: darkblue;
+     }
+     .logo {
+        display: block;
+        width:150px;
+        height:150px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        content:url(https://lh3.googleusercontent.com/proxy/Mb7Q_Ssa5Q1n-WmqaAKVCyommYgic3IZCGbiMmL3yhkyyU5Amn_PqewInNedmyvzQ3oloChfljtNe3D9fVSk);   
+     }
+     hr {
+        border: none; 
+        background-color:darkblue; 
+        color: darkblue; 
+        height: 2px; 
+        width:85%;
+     }
+     .container {
+        width: 380px;
+        height: 300px; 
+     }
+     .container img {
+        width: 100%;
+        height: auto;
+        margin: 0px 30px 20px 0px;
+        float: left;
+        box-shadow: 5px 10px 10px 0px rgba(16, 16, 231, 0.267);
+     }
+     .iconka {
+        width: 40px;
+        height: 40px;
+        margin: 10px 10px 10px 30px;
+     }
+     .calender {
+        width: 80%;
+        padding: 10px;
+        border: 2px double rgb(32, 29, 170);
+        margin: 40px auto 40px;
+     }
+     .calenderya{
+        padding: 5px; 
+        border: 1px solid rgb(32, 29, 170);
+        text-align: right;
+        font-family: gill sans;
+        line-height:25px;
+        font-size: 20px;
+        color: darkblue;
+        padding-left: 50px;
+     }
+     .calenderik{
+        padding: 5px; 
+        border: 1px solid rgb(32, 29, 170);
+        text-align: right;
+        font-family: gill sans;
+        line-height:25px;
+        font-size: 20px;
+        color: darkblue;
+        padding-left: 15px;
+        padding-right: 15px;
+     }
+     .calenderik3 {
+        padding: 5px; 
+        border: 1px solid rgb(32, 29, 170);
+        text-align: right;
+        font-family: gill sans;
+        line-height:25px;
+        font-size: 20px;
+        color: darkblue;
+        padding-left: 5px;
+        padding-right: 5px;
+     }
+    </style>
+  <body>
+    <div class="logo"></div>
+     <p class="zagolovok">Выборы Президента Лицея №2</p>
+     <p class="zagolovok">09. 04. 2021</p>
+     <p class="osnova">Совсем скоро в лицее пройдет важное для каждого событие - Выборы Президента Лицея!<br> 
+        Ученикам и учителям предстоит выбрать руководителя парламента, который в течение<br> 
+        следующего учебного года будет вести за собой огромную команду<br> 
+        и воплощать в жизнь свою предвыборную программу.</p>
+     <p class="osnova">Именно поэтому данная платформа была создана для того, чтобы каждый мог найти здесь<br>
+        любую интересующую его информацию касательно<br>
+        структуры выборов, кандидатов, сроках и правилах проведения.</p>
+     <hr>
+     <p class="zagolovok">Кандидаты 2021</p>
+     <p><table cellspacing="40">
+         <tr>
+          <td>
+           <div class="container">
+            <img src="https://sun9-61.userapi.com/impg/6tkdBCA9AFLYvE4hwG4i4H8t5wwRl1o7pMjnqA/-NyGC4xzXdA.jpg?size=750x902&quality=96&sign=819e85a2b26f6b81b478c1a00c03c022&type=album" alt="milena"></div>
+          </td>
+          <td>
+           <span class="osnova"> Привет! Давайте познакомимся поближе.<br>
+            Меня зовут Милена Керимова и я кандидат в президенты Лицея.<br>
+            Наша программа основана на интересах и потребностях учащихся, преподавателей и сотрудников Лицея,
+            на том, чего нам не хватало в учебе или внеклассной жизни. <br>Моя работа - учитывать пожелания лицейского сообщества
+            и давать ему возможности   для самореализации внутри Лицея.<br>
+            Мы очень хотим, чтобы каждый был услышан. <br> Чтобы мнение каждого имело вес. <br>
+            Чтобы все смогли найти себе место в лицее среди секций и клубов. <br>
+            Чтобы все знали, куда обратиться в трудную минуту, у кого просить помощи. <br>
+            Победа не для нас, она для вас. Полностью. <br>
+            И мы не ставим себя в приоритет, мы доверяем вам выбор. <br><br>
+            <b>Основные пункты предвыборной программы:</b><br>
+            <sub>( наведи, чтобы увидеть )</sub><br></span>
+             <img class="iconka" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Robot_Emoji_Icon_7070a254-26f7-4a54-8131-560e38e34c2e_large.png?v=1571606114" title="Научбот
+ Онлайн площадка, при помощи которой каждый лицеист может решить проблемы со своей исследовательской работой. Для этого ему нужно просто найти нашего бота в мессенджере “Телеграм”, выбрать предмет, по которому ведется исследование и получить список необходимых материалов.">
+             <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/telescope_1f52d.png" title="Лекториум
+ Цель данного проекта - популяризация науки среди лицеистов посредством проведения научно-популярных лекций на интересные и важные темы​​​​​​​, а также расширение кругозора вне рамках профиля и школьного курса.">
+             <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/265/film-frames_1f39e.png" title="Реорганизация киноклуба
+ Площадка для любителей величайшего искусства в мире. Здесь будет не только организовываться регулярный просмотр киношедевров со всего мира, но и будет даваться возможность высказаться по поводу увиденного, поделиться мыслями, впечатлениями.">
+             <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/performing-arts_1f3ad.png" title=" Театральный кружок 
+ Место для тех, кто хочет не только быть наблюдателем, но и сам стать частью искусства. Площадка, где каждый начинающий актер может раскрыть свой талант в полной мере, где каждый найдет свое место на сцене, где каждому будет предоставлен шанс. ">
+             <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/woman-raising-hand_1f64b-200d-2640-fe0f.png" title=" Клуб дебатов и дискуссий «Слово»
+ Место для развития культуры спора, острая нехватка которой стойко ощущается в наши дни.
+ Клуб подразумевает собой не только споры внутри лицейского сообщества, но и выход на межшкольную арену.">
+             <a href="https://185983.lp.tobiz.net"><img src="http://www.pngmart.com/files/8/Website-PNG-HD.png"
+   width="50px" height="50px"ALIGN=right title="Посетить сайт кандидата"></a>
+          </td>  
+         </tr>
+     </table>
+     <table cellspacing="40">
+       <tr>
+         <td>
+           <span class="osnova"> Всем привет. Меня зовут Егор Лаптев, я являюсь кандидатом №3 на пост президента!<br>
+               Уже на данный момент я попробовал себя в подготовке многих лицейских мероприятий <br>
+               как в роли помощника, так и в роли одного из главных организаторов. <br>
+               Также я являюсь главой отряда волонтеров-медиков, поэтому у меня есть большой опыт работы с командой. <br>
+               Своими главными качествами я считаю многозадачность, пунктуальность, целеустремленность и ответственность. <br>
+               На своём личном опыте я знаю, насколько тяжело справляться со стрессом, <br> 
+               поэтому для оказания поддержки я планирую проводить психологические тренинги - <br>
+               - именно они являются основой моей программы. <br>
+               Я с большой любовью и трепетом отношусь к своей семье и близким, а лицей для меня - своего рода семья!<br><br>
+               <b>Основные пункты предвыборной программы:</b><br>
+               <sub>( наведи, чтобы увидеть )</sub><br></span> 
+           <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/up-right-arrow_2197-fe0f.png" title="Психологические тренинги
+ Неумение контролировать себя в стрессовых ситуациях и проблема преждевременного эмоционального выгорания знакома многим лицеистам. Именно поэтому наша команда предлагает провести 18 психологических тренингов, которые позволят лицеистам лучше разобраться в себе и своих эмоциях.">
+           <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/stethoscope_1fa7a.png" title="Министерство здравоохранения
+ Сложная эпидемиологическая ситуация показала нам, насколько волонтеры-медики важны. Внедрение волонтеров-медиков в парламент как представителей отдельного министерства - министерства здравоохранения - даст возможность координировать действия в команде с другими министерствами.">
+           <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/cup-with-straw_1f964.png" title="Зона отдыха лицеистов
+ Отдых - это неотъемлимая часть жизни каждого человека. Создав зону отдыха с благоприятными условиями для времяпрепровождения, мы добъемся повышения продуктивности лицеистов.">
+           <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/light-bulb_1f4a1.png" title="Команда КВН
+ Лицейская команда КВН «‎АВОК»‎ на протяжении многих лет участвовала в играх Школьной лиги Чемпионата КВН Прикамья и часто занимала призовые места. Возрождение команды КВН позволит лицеистам попробовать свои силы в написании сценариев, а также поможет им преодолеть страх публичных выступлений">
+           <a href="http://lapteeeeeeeeev.tilda.ws/"><img src="http://www.pngmart.com/files/8/Website-PNG-HD.png"
+                  width="50px" height="50px"ALIGN=right title="Посетить сайт кандидата"></a>
+         </td>
+         <td>
+         <div class="container">
+           <img src="https://sun9-18.userapi.com/impg/KA_RYU3ZKEI1EVU5DhRRbFUfS0BN7GkZpujiLQ/LDiV23chmpo.jpg?size=1527x2160&quality=96&sign=d71f4e5bffed54450604e15d59134979&type=album" alt="egor"></div>   
+         </td>
+       </tr>
+   </table>
+   <table cellspacing="40">
+     <tr>
+       <td>
+         <div class="container">
+             <img src="https://sun9-46.userapi.com/impg/5rvklAO0fWYKSf-jAUNQ2A0RtvsE3Pg7PL_iiQ/FjIqBWhouxo.jpg?size=742x948&quality=96&sign=98e12a81640aba6ea83110b347701612&type=album" alt="michey"></div>
+       </td>
+       <td>
+         <span class="osnova"> <b>За все, что мы делаем, мы отвечаем вместе!</b><br><br>
+               Всем привет! Меня зовут Михей Салимгареев, я являюсь учеником 10 Исторического класса. <br>
+               Я - кандидат №4 на пост Президента Лицея №2! <br>
+               Я баллотируюсь на должность президента МАОУ «Лицей №2». <br>
+               Считаю, что только в команде, где есть общая идея, сотрудничество и взаимное уважение можно эффективно решать любые задачи. <br>
+               Основная идея моей программы – продвижение здорового образа жизни в Лицее! <br> 
+               Здоровое тело – здоровые мысли – ответственные поступки!<br><br>
+              <b>Основные пункты предвыборной программы:</b><br>
+              <sub>( наведи, чтобы увидеть )</sub><br></span>
+                  <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/check-mark_2714-fe0f.png" title="Повышение уровня успеваемости
+ Считаю, что необходимо поощрять учащихся, имеющих отличные и хорошие результаты в учебе или иных областях.">
+                  <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/265/globe-with-meridians_1f310.png" title="Информационное пространство
+ Создание информационного пространства «Здоровое тело – здоровые мысли – ответственные поступки!» посредствам актуализации Youtube-канала, аккаунта «Instagram» и сайта.">
+                  <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/family-man-woman-boy-boy_1f468-200d-1f469-200d-1f466-200d-1f466.png" title="Мы за здоровый образ жизни!
+ Эти слова должны стать нашим девизом. Спорт, отказ от курения, от употребления алкогольных напитков и слабоалкогольных коктейлей.">
+                  <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/seedling_1f331.png" title="Сохранение традиций Лицея
+ Посвящение в лицеисты, ежегодный бал и тд.">
+                  <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/compass_1f9ed.png" title="Организация и проведение диагностических мероприятий 
+ Анализ занятости учащихся Лицея №2 физкультурой и спортом, предоставление отчета на круглом столе с администрацией учреждения.">
+                  <img class="iconka" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/230/staff-of-aesculapius_2695.png" title="Организация профилактических и оздоровительных мероприятий 
+ Проведение классных часов, бесед, встреч, «круглых столов» по вопросам ЗОЖ, проведение динамических пауз на уроках и переменах.">
+       </td>
+    </tr>
+   </table>
+   </p>
+   <hr>
+   <p class="zagolovok">Расписание мероприятий</p>
+    <table class="calender">
+       <tr>
+          <td class="calenderya"><br><br><br>15 Марта</td>
+          <td class="calenderya"><br><span class="iconka"><a href="https://vk.com/lyc2perm?w=wall-171479117_4923"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/pen_1f58a-fe0f.png"
+             width="40px" height="40px" ALIGN="left" title="Сбор подписей в поддержку кандидатов"></a></span><br><br>16 Марта</td>
+          <td class="calenderya"><br><br><br>17 Марта</td>
+          <td class="calenderya"><br><br><br>18 Марта</td>
+          <td class="calenderya"><br> <span class="iconka"><a href="https://vk.com/lyc2perm?w=wall-171479117_4940"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/white-flower_1f4ae.png"
+             width="40px" height="40px" ALIGN="left" title="Утвержден список кандидатов"></a></span><br><br>19 Марта</td>
+          <td class="calenderya"><br><br><br>20 Марта</td>
+          <td class="calenderya"><br><br><br>21 Марта</td>
+       </tr>
+       <tr>
+         <td class="calenderya"><br><br><br>22 Марта</td>
+         <td class="calenderya"><br><br><br>23 Марта</td>
+         <td class="calenderya"><br><br><br>24 Марта</td>
+         <td class="calenderya"><br><br><br>25 Марта</td>
+         <td class="calenderya"><br><br><br>26 Марта</td>
+         <td class="calenderya"><br><br><br>27 Марта</td>
+         <td class="calenderya"><br><br><br>28 Марта</td>
+       </tr>
+       <tr>
+         <td class="calenderya"><br><br><br>29 Марта</td>
+         <td class="calenderya"><br><br><br>30 Марта</td>
+         <td class="calenderya"><br><br><br>31 Марта</td>
+         <td class="calenderik"><br> <span>
+                                      <a href="https://sun9-76.userapi.com/impf/Sy_WXfTEScEPf7cn_avLqhTfPpEJ9zg5D9RrXA/P9bVqibLwGE.jpg?size=1080x1080&quality=96&sign=c742c295d9f14a4e0b38869bd33910cc&type=album">
+                                      <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/slot-machine_1f3b0.png"
+                                        width="40px" height="40px" ALIGN="left" title="Лицейская лотерея - день 1">
+                                      </a>
+                                     </span>
+                                     <span>
+                                       <a href="https://vk.com/public203676305?w=wall-203676305_2">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/popcorn_1f37f.png"
+                                        width="40px" height="40px" ALIGN="right" title="Киновечер">
+                                       </a>
+                                      </span>
+                                <br><br>1 Апреля</td>
+         <td class="calenderik"><br> <span>
+                                       <a href="https://sun9-76.userapi.com/impf/Sy_WXfTEScEPf7cn_avLqhTfPpEJ9zg5D9RrXA/P9bVqibLwGE.jpg?size=1080x1080&quality=96&sign=c742c295d9f14a4e0b38869bd33910cc&type=album">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/slot-machine_1f3b0.png"
+                                         width="40px" height="40px" ALIGN="left" title="Лицейская лотерея - день 2">
+                                       </a>
+                                     </span>
+                                     <span>
+                                       <a href="https://vk.com/public203676305?w=wall-203676305_15">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/battery_1f50b.png"
+                                         width="40px" height="40px" ALIGN="right" title="Акция по сбору батареек">
+                                       </a>
+                                     </span>
+                                     <br><br>2 Апреля</td>
+         <td class="calenderik"><br> <span>
+                                      <a href="https://vk.com/public203676305?w=wall-203676305_15">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/battery_1f50b.png"
+                                         width="40px" height="40px" ALIGN="left" title="Акция по сбору батареек">
+                                      </a>
+                                     </span>
+                                     <span>
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/t-rex_1f996.png"
+                                         width="45px" height="45px" ALIGN="right" title="Супер-игра - день 1">
+                                     </span>
+                                <br><br>3 Апреля</td>
+         <td class="calenderik"><br> <span>
+                                      <a href="https://vk.com/public203676305?w=wall-203676305_15">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/battery_1f50b.png"
+                                         width="40px" height="40px" ALIGN="left" title="Акция по сбору батареек">
+                                      </a> 
+                                     </span>
+                                     <span>
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/t-rex_1f996.png"
+                                         width="45px" height="45px" ALIGN="right" title="Супер-игра - день 2">
+                                     </span>
+          <br><br>4 Апреля</td>
+       </tr>
+       <tr>
+         <td class="calenderik3"><br> <span>
+                                      <a href="https://vk.com/public203676305?w=wall-203676305_15">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/battery_1f50b.png"
+                                         width="40px" height="40px" ALIGN="left" title="Акция по сбору батареек">
+                                      </a>
+                                     </span>
+                                     <span>
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/woman-dancing_1f483.png"
+                                         width="40px" height="40px" ALIGN="center" title="Антикафе Afterпары">
+                                     </span>
+                                     <span>
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/275/guitar_1f3b8.png"
+                                         width="40px" height="40px" ALIGN="right" title="Квартирник">
+                                     </span>
+          <br><br>5 Апреля</td>
+         <td class="calenderik3"><br> <span>
+                                      <a href="https://vk.com/public203676305?w=wall-203676305_15">
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/battery_1f50b.png"
+                                         width="40px" height="40px" ALIGN="left" title="Акция по сбору батареек">
+                                      </a>
+                                     </span>
+                                     <span>
+                                       <a href="https://vk.com/public203676305?w=wall-203676305_21">
+                                        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/artist-palette_1f3a8.png"
+                                          width="40px" height="40px" ALIGN="center" title="Результаты творческого онлайн-конкурса">
+                                       </a>
+                                      </span>
+                                      <span>
+                                       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/child_1f9d2.png"
+                                         width="40px" height="40px" ALIGN="right" title="Помощь детям">
+                                     </span>
+          <br><br>6 Апреля</td>
+         <td class="calenderya"><br><br><br>7 Апреля</td>
+         <td class="calenderya"><br><br><br>8 Апреля</td>
+         <td class="calenderya"><br> <span>
+                                       <a href="https://vk.com/lyc2perm?w=wall-171479117_4921">
+                                        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/ballot-box-with-ballot_1f5f3-fe0f.png"
+                                          width="50px" height="50px" ALIGN="left" title="День выборов Президента">
+                                       </a>
+                                     </span>
+          <br><br>9 Апреля</td>
+         <td class="calenderya"><br><br><br>10 Апреля</td>
+         <td class="calenderya"><br><br><br>11 Апреля</td>
+       </tr>
+    </table>  
+   <hr>
+   <p class="zagolovok"> Интервью кандидатов</p>
+   <table cellspacing="40">
+      <tr>
+         <td class="container">
+            <a href="https://vk.com/video-171479117_456239260">
+              <img src="https://sun9-61.userapi.com/impg/6tkdBCA9AFLYvE4hwG4i4H8t5wwRl1o7pMjnqA/-NyGC4xzXdA.jpg?size=750x902&quality=96&sign=819e85a2b26f6b81b478c1a00c03c022&type=album">
+            </a>
+         </td>
+         <td class="container">
+            <a href="https://vk.com/video-171479117_456239258">
+              <img src="https://sun9-18.userapi.com/impg/KA_RYU3ZKEI1EVU5DhRRbFUfS0BN7GkZpujiLQ/LDiV23chmpo.jpg?size=1527x2160&quality=96&sign=d71f4e5bffed54450604e15d59134979&type=album">
+            </a> 
+         </td>
+         <td class="container">
+            <a href="https://vk.com/video-171479117_456239259">
+              <img src="https://sun9-46.userapi.com/impg/5rvklAO0fWYKSf-jAUNQ2A0RtvsE3Pg7PL_iiQ/FjIqBWhouxo.jpg?size=742x948&quality=96&sign=98e12a81640aba6ea83110b347701612&type=album">
+            </a>
+         </td>
+      </tr>
+   </table>
+   <hr>
+  </body>
+ </head>
+</html>
